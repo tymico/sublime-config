@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"DocBlockr",
+		"GBK Support",
+		"GL Shader Validator",
+		"Modific",
+		"Package Control",
+		"PlainTasks",
+		"Protobuf Syntax Hightlighting",
+		"Shader Syntax (GLSL HLSL Cg)",
+		"ShaderLanguages",
+		"SublimeAStyleFormatter",
+		"Unity Shader",
+		"Unity3D Shader Highlighter and Snippets",
+		"WordHighlight"
+	]
+}

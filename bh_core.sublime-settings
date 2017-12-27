@@ -1,0 +1,26 @@
+{
+	"high_visibility_style": "highlight",
+	"bracket_styles": {
+        // User defined region styles
+        "curly": {
+            "icon": "curly_bracket",
+            "color": "region.purplish",
+            "style": "highlight"
+        },
+        "round": {
+            "icon": "round_bracket",
+            "color": "region.yellowish",
+            "style": "highlight"
+        },
+        "square": {
+            "icon": "square_bracket",
+            "color": "region.bluish",
+            "style": "highlight"
+        },
+        "angle": {
+            "icon": "angle_bracket",
+            "color": "region.orangish",
+            "style": "highlight"
+        },
+    }
+}

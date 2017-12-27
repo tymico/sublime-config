@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+k", "ctrl+["], "command": "fold_by_level", "args": {"level": 1} },
+    { "keys": ["ctrl+k", "ctrl+]"], "command": "unfold_all" },
+]
