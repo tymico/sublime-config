@@ -1,0 +1,12 @@
+{
+    "options_default" :
+     {
+        "translate_tabs_to_spaces": true,
+        "indent-switches": true,
+
+        "break-closing-brackets": true,
+        "break-elseifs": true,
+
+        "unpad-paren": true,
+    }
+}
